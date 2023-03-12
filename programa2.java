@@ -1,1 +1,1 @@
-comandos java sendo criados aqui
+comandos java sendo criados aqui com dados remotos
