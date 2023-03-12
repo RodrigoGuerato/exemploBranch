@@ -1,1 +1,1 @@
-comandos java sendo criados aqui com dados locais
+comandos java sendo criados aqui com dados locais e remotos
